@@ -1,0 +1,14 @@
+
+Deutsch
+- Prüfen und Speichern trennen: Einen Ausgangsstand bewusst erstellen und beim Prüfen nicht automatisch überschreiben.
+- Tests ergänzen: Unveränderte, geänderte, neue und gelöschte Dateien testen.
+- Fehler verständlich behandeln: Zum Beispiel, wenn der Datenordner oder die JSON-Datei fehlt oder eine Datei nicht lesbar ist.
+- Bedienung verbessern: Später Optionen wie „Ausgangsstand erstellen“ und „Dateien prüfen“ über Kommandozeilenargumente anbieten.
+
+
+English
+- Separate checking from saving: Create a baseline deliberately, and do not overwrite it automatically when checking files.
+- Add tests: Test unchanged, modified, new, and deleted files.
+- Handle errors clearly: For example, when the data folder or JSON file is missing, or a file cannot be read.
+- Improve usability: Later, add command-line options such as “create baseline” and “check files.”
+
